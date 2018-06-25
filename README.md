@@ -4,7 +4,7 @@ Recently Google released a [web application](https://messages.android.com/) that
 This project "nativefies" the website into a desktop application. Check out the [releases page](https://github.com/maxchehab/Unofficial-Google-Messages-Desktop-App/releases) for downloads.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maxchehab/Unofficial-Google-Messages-Desktop-App/master/assets/demo.png" width="450px" />
+  <img src="https://raw.githubusercontent.com/maxchehab/Unofficial-Google-Messages-Desktop-App/master/assets/demo.png" width="800px" />
 </p>
 
 To build localy:
